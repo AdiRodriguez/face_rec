@@ -12,9 +12,6 @@ This project was made in less than 2 hours. Of course there is room for improvem
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Installation
 
